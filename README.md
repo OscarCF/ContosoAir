@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ozfrancotraining/pipelinetest/_apis/build/status/OscarCF.ContosoAir?branchName=master)](https://dev.azure.com/ozfrancotraining/pipelinetest/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
